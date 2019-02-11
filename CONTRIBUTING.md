@@ -1,40 +1,29 @@
-# Contributing
+# Contribuindo
 
-Thank you for your interest in contributing to the React Native Docs!
+Obrigado por ter interesse em contribuir com a documentação de React Native!
 
-## Code of Conduct
+## Codigo de conduta
 
-Facebook has adopted a Code of Conduct that we expect project participants to
-adhere to. Please [read the full text](https://code.facebook.com/codeofconduct)
-so that you can understand what actions will and will not be tolerated.
+Facebook Tem adotado um codigo de conduta e nós esperams ke os participantes do projeto também sigam . Por favor [Leia o texto completo](https://code.facebook.com/codeofconduct)
+para que você possa entender quais ações serão e não serão toleradas.
 
-## Guidelines for Text
+## Diretrizes para texto
 
-**Different sections intentionally have different styles.**
+**Diferentes seções intencionalmente têm diferentes estilos.**
+A documentação é dividia em diferentes seções para atender diferentes formas de aprendizado e casos de uso. Ao editar um artigo, tente manter a estilização do seu texto. Ao criar um novo artigo, tente corresponder ao tom do outro
+artigos na mesma seção. Aprenda sobre a motivação por trás de cada seção
+abaixo.
 
-The documentation is divided into sections to cater to different learning styles
-and use cases. When editing an article, try to match the surrounding text in
-tone and style. When creating a new article, try to match the tone of the other
-articles in the same section. Learn about the motivation behind each section
-below.
+**[Começando](https://facebook.github.io/react-native/docs/tutorial.html)**
+é relativamente informal. Resista a adicionar muitos detalhes ao Início Rápido. as instruçoes de codigo nativo devem conter o conjunto minimo de passos para montar seu ambiene de desenvolvimento basico, e espera-se que contenha um conjunto maior de
+passos para obter um ambiente de desenvolvimento em funcionamento. Seja qual for o caso, deve ser
+possível para um iniciante seguir mecanicamente todas as instruções e ainda assim criar um Aplicativo em React Native.
 
-**[Getting Started](https://facebook.github.io/react-native/docs/tutorial.html)**
-is relatively informal. Resist adding too much detail to the Quick Start. The
-native code instructions should contain the minimal set of steps to get to a
-working development environment, and is expected to contain a longer set of
-steps to get a working development environment. Whatever the case, it should be
-possible for a beginner to mechanically follow every instruction, and still get
-to a working React Native app.
-
-**[The Basics](https://facebook.github.io/react-native/docs/tutorial.html)** is
-designed to introduce fundamental concepts in a step-by-step way. Each
-individual article in The Basics builds on the knowledge from the previous ones,
-so make sure not to add any "cyclical dependencies" between them. It is
-important that the reader can start with the first article and work their way to
-the last Basics article without ever having to "look ahead" for a definition.
-This explains some ordering choices. Resist adding too much detail to Basics
-articles. They intentionally don't cover all corner cases, and focus on
-establishing firm foundations.
+**[O Básico](https://facebook.github.io/react-native/docs/tutorial.html)** é feito para introduzir os conceitos fundamentais passo a passo. Cada artigo em o Basico é construindo pensando nos conhecimentos já adquiridos anteriormente,
+Portanto, certifique-se de não adicionar nenhuma "dependência cíclica" entre eles. Isto é
+importante para que o leitor possa começar com o primeiro artigo e trabalhar o seu caminho para
+o último artigo básico sem ter que "procurar em tutoriais mais avançados" para uma definição. 
+Isso explica a ordem das escolhas, evite adiocionar muitos detalhes ao basico. Intencionalmente não cobrimos todos os casos possiveis e focamos em estabelecer fortes fundações.
 
 **[Guides](https://facebook.github.io/react-native/docs/components-and-apis.html)**
 are deep dives into topics that aren't essential for a beginner developer but
