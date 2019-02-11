@@ -3,6 +3,7 @@
 Este repositorio contem o website configuração e documentação que gera o site
 [React Native website](https://facebook.github.io/react-native/).
 
+Observação esta documentação está em processo de tracução por Fernando Moura
 ## Começando
 
 ### Pré-requisitos
