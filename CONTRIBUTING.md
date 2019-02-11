@@ -4,7 +4,7 @@ Obrigado por ter interesse em contribuir com a documentação de React Native!
 
 ## Codigo de conduta
 
-Facebook Tem adotado um codigo de conduta e nós esperams ke os participantes do projeto também sigam . Por favor [Leia o texto completo](https://code.facebook.com/codeofconduct)
+Facebook Tem adotado um codigo de conduta e nós esperams que os participantes do projeto também sigam . Por favor [Leia o texto completo](https://code.facebook.com/codeofconduct)
 para que você possa entender quais ações serão e não serão toleradas.
 
 ## Diretrizes para texto

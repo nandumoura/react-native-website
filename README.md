@@ -1,27 +1,27 @@
 # [facebook.github.io/react-native/](https://facebook.github.io/react-native/) &middot;  [![Circle CI Status](https://circleci.com/gh/facebook/react-native-website.svg?style=shield)](https://circleci.com/gh/facebook/react-native-website) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-This repo contains the website configuration and documentation powering the
+Este repositorio contem o website configuração e documentação que gera o site
 [React Native website](https://facebook.github.io/react-native/).
 
-## Getting started
+## Começando
 
-### Prerequisites
+### Pré-requisitos
 
 1.  Git
-1.  Node: install version 6.2.2 or greater. Node v8 would be ideal.
-1.  Yarn: See
-    [Yarn website for installation instructions](https://yarnpkg.com/lang/en/docs/install/).
-1.  A fork of the repo (for any contributions).
-1.  A clone of the `react-native-website` repo.
+1.  Node: instale a versão 6.2.2 ou superior. Node v8 Seria ideal.
+1.  Yarn: veja
+    [Yarn website para instruções de instalação](https://yarnpkg.com/lang/en/docs/install/).
+1.  Um fork deste repositorio(para qualquer contribuição).
+1.  Um clone do `react-native-website` repo.
 1.  Docusaurus: Run `yarn global add docusaurus-init` or `npm install --global docusaurus-init`
 1.  Prettier: See
-    [Prettier website for installation instructions](https://prettier.io/docs/en/install.html).
+    [Prettier website para instruções de instalação](https://prettier.io/docs/en/install.html).
 
-### Installation
+### Instalação
 
 1.  `cd react-native-website` to go into the project root.
-1.  `cd website` to go into the website portion of the project.
-1.  `yarn` to install the website's npm dependencies (or `npm install`, if not
+2.  `cd website` to go into the website portion of the project.
+3.  `yarn` to install the website's npm dependencies (or `npm install`, if not
     using Yarn).
 
 ### Running locally
